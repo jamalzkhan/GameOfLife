@@ -1,2 +1,8 @@
 Conway's Game Of Life written in java for a school project.
 
+1. Compile using:$ javac Life.java in the life package
+2. Run using:$ java life [-cells]
+
+The cells option allows for a larger grid, if no number is entered then a 30x30 grid will be generated.
+
+Right clicking and Left clicking on the cells changes the colours.
